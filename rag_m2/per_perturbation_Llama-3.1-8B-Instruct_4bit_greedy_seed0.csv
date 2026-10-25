@@ -1,0 +1,16 @@
+type,perturbation,n,RR,WR,LR,acc_original,acc_perturbed
+format,format_preference_html,100,47.0,6.0,47.0,69.0,28.0
+format,format_preference_json,100,65.0,12.0,23.0,63.0,52.0
+format,format_preference_markdown,100,80.0,17.0,3.0,51.0,65.0
+format,format_preference_yaml,100,66.0,18.0,16.0,54.0,56.0
+logic,logic_preference_llm,100,72.0,12.0,16.0,60.0,56.0
+logic,logic_preference_random,100,66.0,15.0,19.0,57.0,53.0
+logic,logic_preference_reverse,100,68.0,13.0,19.0,57.0,51.0
+meta,metadata_datasource_twitter,100,89.0,5.0,6.0,29.0,28.0
+meta,metadata_datasource_wiki,100,88.0,12.0,0.0,28.0,40.0
+meta,metadata_timestamp_post,100,89.0,4.0,7.0,34.0,31.0
+meta,metadata_timestamp_pre,100,94.0,0.0,6.0,40.0,34.0
+source,self_preference_llama3_8b,100,48.0,28.0,24.0,51.0,55.0
+source,source_preference_llm,100,50.0,27.0,23.0,51.0,55.0
+style,complex_preference_llm,100,60.0,24.0,16.0,45.0,53.0
+style,simple_preference_llm,100,53.0,19.0,28.0,60.0,51.0
