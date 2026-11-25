@@ -1,0 +1,6 @@
+type,M2_RR,baseline,generic,specific,delta_generic,delta_specific,predicted_delta_specific
+style,56.5,56.5,57.0,58.5,0.5,2.0,+5..+10
+source,49.0,49.0,53.5,56.5,4.5,7.5,+3..+5
+logic,68.7,68.7,74.7,69.0,6.0,0.3,0..+3
+format,64.5,64.5,70.8,69.8,6.3,5.3,+5..+10
+meta,90.0,90.0,91.0,90.8,1.0,0.8,~0

@@ -1,0 +1,19 @@
+comparison,category,n,became_robust,became_non_robust,net,p_value,significant_p<0.05
+baseline -> generic,ALL,1500,185,128,57,0.0015,True
+baseline -> generic,style,200,21,20,1,1.0,False
+baseline -> generic,source,200,31,22,9,0.2717,False
+baseline -> generic,logic,300,38,20,18,0.0247,True
+baseline -> generic,format,400,64,39,25,0.0176,True
+baseline -> generic,meta,400,31,27,4,0.694,False
+baseline -> specific,ALL,1500,215,171,44,0.0285,True
+baseline -> specific,style,200,34,30,4,0.708,False
+baseline -> specific,source,200,37,22,15,0.0674,False
+baseline -> specific,logic,300,41,40,1,1.0,False
+baseline -> specific,format,400,73,52,21,0.0732,False
+baseline -> specific,meta,400,30,27,3,0.7914,False
+generic -> specific,ALL,1500,179,192,-13,0.5333,False
+generic -> specific,style,200,26,23,3,0.7754,False
+generic -> specific,source,200,35,29,6,0.5323,False
+generic -> specific,logic,300,32,49,-17,0.0748,False
+generic -> specific,format,400,59,63,-4,0.7861,False
+generic -> specific,meta,400,27,28,-1,1.0,False

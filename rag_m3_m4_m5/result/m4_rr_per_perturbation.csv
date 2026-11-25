@@ -1,0 +1,16 @@
+type,perturbation,baseline,generic,specific,delta_generic,delta_specific
+format,format_preference_html,47.0,55.0,61.0,8.0,14.0
+format,format_preference_json,65.0,80.0,68.0,15.0,3.0
+format,format_preference_markdown,80.0,77.0,75.0,-3.0,-5.0
+format,format_preference_yaml,66.0,71.0,75.0,5.0,9.0
+logic,logic_preference_llm,72.0,74.0,72.0,2.0,0.0
+logic,logic_preference_random,66.0,73.0,69.0,7.0,3.0
+logic,logic_preference_reverse,68.0,77.0,66.0,9.0,-2.0
+meta,metadata_datasource_twitter,89.0,90.0,94.0,1.0,5.0
+meta,metadata_datasource_wiki,88.0,89.0,89.0,1.0,1.0
+meta,metadata_timestamp_post,89.0,91.0,90.0,2.0,1.0
+meta,metadata_timestamp_pre,94.0,94.0,90.0,0.0,-4.0
+source,self_preference_llama3_8b,48.0,52.0,58.0,4.0,10.0
+source,source_preference_llm,50.0,55.0,55.0,5.0,5.0
+style,complex_preference_llm,60.0,59.0,62.0,-1.0,2.0
+style,simple_preference_llm,53.0,55.0,55.0,2.0,2.0
